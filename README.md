@@ -1,2 +1,2 @@
 # Silverspoon
-An Online Food Booking System
+Service Search Engine
